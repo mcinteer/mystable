@@ -187,8 +187,15 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Content\todo\images\bg.png" />
+    <Content Include="Content\todo\todo.css" />
+    <Content Include="Content\todo\reset.css" />
+    <Content Include="Content\todo\libstyles.css" />
+    <Content Include="Content\todo\icons.css" />
+    <Content Include="Content\_layout.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\todo\fonts\icomoon.woff" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
@@ -204,6 +211,10 @@
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\Overture-raw.js" />
+    <Content Include="Scripts\todo\fixtures.js" />
+    <Content Include="Scripts\todo\todo.js" />
+    <Content Include="Scripts\wizard\stepone\Email.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
